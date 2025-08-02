@@ -3,7 +3,7 @@
   
 ###
 <picture>
-  <img width="100" height="1000" src="https://giffiles.alphacoders.com/215/215911.gif">
+  <img height="400" src="https://giffiles.alphacoders.com/215/215911.gif">
 </picture>
 
 
