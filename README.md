@@ -3,7 +3,7 @@
   
 ###
 <picture>
-  <img src="![Video to animated GIF converter](https://github.com/user-attachments/assets/cab63181-46fd-453d-a065-c3cd567e843e)">
+  <img src="https://pin.it/3cifk1TbP">
 </picture>
 
 
