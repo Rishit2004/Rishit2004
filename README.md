@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-
+<div align="center">
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -20,7 +20,9 @@
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rishit2004&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+##
 ![](https://nirzak-streak-stats.vercel.app/?user=Rishit2004&theme=darcula&hide_border=false)<br/>
+##
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit2004&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
@@ -34,3 +36,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rishit2004&icon=3&color=3)](https://visitcount.itsvg.in)
+</div>
