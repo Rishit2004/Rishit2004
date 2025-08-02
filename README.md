@@ -1,4 +1,44 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Rishit</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishit2004&label=Profile%20views&color=0e75b6&style=flat" alt="rishit2004" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Trustpulse.AI](https://github.com/Rishit2004/Trustpulse)
+
+- 🌱 I’m currently learning **Go, Docker**
+
+- 🤝 I’m looking for help with [Nike-X](https://github.com/Rishit2004/Nike-landing-page)
+
+- 👨‍💻 All of my projects are available at [https://rishit2004.github.io/CODSOFT-task1/](https://rishit2004.github.io/CODSOFT-task1/)
+
+- 📫 How to reach me **rishit.1678@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rishit sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishit sharma" height="30" width="40" /></a>
+<a href="https://kaggle.com/rishit sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishit sharma" height="30" width="40" /></a>
+<a href="https://medium.com/@rishit sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishit sharma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rs8006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rs8006" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rishitcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishitcodez" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishit2004&show_icons=true&locale=en&layout=compact" alt="rishit2004" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishit2004&show_icons=true&locale=en" alt="rishit2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishit2004&" alt="rishit2004" /></p>
+###
+
+###
 <div align="center">
   
 ###
