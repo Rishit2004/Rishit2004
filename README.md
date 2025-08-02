@@ -1,64 +1,96 @@
-<h1 align="center">Hi 👋, I'm Rishit</h1>
-
-<picture>
-  <img src="https://giffiles.alphacoders.com/215/215911.gif">
-</picture>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishit2004&label=Profile%20views&color=0e75b6&style=flat" alt="rishit2004" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Trustpulse.AI](https://github.com/Rishit2004/Trustpulse)
-
-- 🌱 I’m currently learning **Go, Docker**
-
-- 🤝 I’m looking for help with [Nike-X](https://github.com/Rishit2004/Nike-landing-page)
-
-- 👨‍💻 All of my projects are available at [https://rishit2004.github.io/CODSOFT-task1/](https://rishit2004.github.io/CODSOFT-task1/)
-
-- 📫 How to reach me **rishit.1678@gmail.com**
-
-  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishit-sharma-163468265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishit sharma" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/rizzit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishit sharma" height="30" width="40" /></a>
-<a href="https://medium.com/@rishit.1678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishit sharma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rs8006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rs8006" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/user9086bl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishitcodez" height="30" width="40" /></a>
-</p>
-
-###
 <div align="center">
-
-
-
-###
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rishit2004&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-###
-
-![](https://nirzak-streak-stats.vercel.app/?user=Rishit2004&theme=darcula&hide_border=false)<br/>
-###
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit2004&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-###
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rishit2004&theme=date_night&no-frame=true&no-bg=true&margin-w=4)
-
-
-###
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
+  <h1>Hi 👋, I'm Rishit</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;AI+Researcher;CyberSecurity+Enthusiast;HPC+Explorer" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishit2004&icon=3&color=3)](https://visitcount.itsvg.in)
-</div>
+
+<img width="400" align="right" src="https://i.gifer.com/CRNx.gif" />
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on [Trustpulse.AI](https://github.com/Rishit2004/Trustpulse)
+- 🌱 Learning **Go**, **Docker**, and exploring **HPC applications**
+- 🤝 Open to collaborations on full-stack or AI-driven tools
+- 📫 Reach me at: **rishit.1678@gmail.com**
+- 🌐 Portfolio: [CODSOFT Showcase](https://rishit2004.github.io/CODSOFT-task1/)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+**Backend & Tools:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+**AI/ML & HPC:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![MPI](https://img.shields.io/badge/MPI-blue?style=for-the-badge)
+![OpenMP](https://img.shields.io/badge/OpenMP-yellow?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+- **[Resorcify](https://github.com/Rishit2004/Resorcify)** – Employee Management Dashboard (Full-stack)
+- **[Trustpulse.AI](https://github.com/Rishit2004/Trustpulse)** – Banking trust prediction using ML
+- **[Nike-X](https://github.com/Rishit2004/Nike-landing-page)** – UI/UX-focused animated product landing page
+- **[Next.js Full-stack App](https://github.com/Rishit2004/Nextjs-app)** – Authenticated dashboard with MongoDB backend
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishit2004&theme=darcula&show_icons=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rishit2004&theme=darcula&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit2004&layout=compact&theme=darcula" height="150"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishit2004&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rishit-sharma-163468265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://medium.com/@rishit.1678" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" /></a>
+  <a href="https://www.kaggle.com/rizzit" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" /></a>
+  <a href="https://www.hackerrank.com/rs8006" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://leetcode.com/u/user9086bl/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" /></a>
+</p>
+
+---
+
+<p align="center">
+  ☕ Fueling ideas with caffeine <img src="https://media1.giphy.com/media/sJKsXTsaDaR8CgypKu/giphy.gif" height="30">
+</p>
+
+---
