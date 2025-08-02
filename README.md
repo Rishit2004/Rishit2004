@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit</h1>
 
 <picture>
-  <img display="block" width="500" height="300" align="right" src="https://giffiles.alphacoders.com/215/215911.gif">
+  <img src="https://giffiles.alphacoders.com/215/215911.gif">
 </picture>
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -20,9 +20,7 @@
 
 - 📫 How to reach me **rishit.1678@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,9 +35,6 @@
 <div align="center">
 
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishit.1678@gmail.com) 
 
 ###
 # 💻 Tech Stack:
