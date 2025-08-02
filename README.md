@@ -2,8 +2,7 @@
 <div align="center">
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pin.it/3cifk1TbP">
-  <img alt="pacman contribution graph" src="https://pin.it/3cifk1TbP">
+  ![Video to animated GIF converter](https://github.com/user-attachments/assets/cab63181-46fd-453d-a065-c3cd567e843e)
 </picture>
 
 ###
