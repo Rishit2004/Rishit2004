@@ -89,6 +89,7 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishit2004&label=Profile%20views&color=0e75b6&style=flat" alt="Rishit2004" /> </p>
 
 <p align="center">
   ☕ Fueling ideas with caffeine <img src="https://media1.giphy.com/media/sJKsXTsaDaR8CgypKu/giphy.gif" height="30">
